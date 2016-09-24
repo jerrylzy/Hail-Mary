@@ -56,9 +56,8 @@ The ball's trajectory is parabolic.
 My program will automatically correct degrees of rotation.
 FPS values are calculated using exponential smoothing technique.
 
-Since the scenes are complex and my gt750m gave me a little above 30 fps,
-please test my program on a capable-enough computer (with fps >= 30)
-and in firefox.
+Since the scenes are complex and, gt750m gave me a little above 30 fps.
+However, I found it to be very smooth on Safari.
 
 ### Common files:
 
